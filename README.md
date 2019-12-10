@@ -28,4 +28,4 @@ SHA-1: Un número de ataques significativos fueron divulgados sobre SHA-1, lo qu
 SHA-256, SHA-384, y SHA-512: Son variaciones de SHA-1. Aunque  SHA-256, SHA-384, y SHA-512 producen códigos hash más largos, un código hash más largo no proporciona una mayor seguridad si el algoritmo subyacente tuviera algún fallo. Dando más bits solo se incrementa el esfuerzo para encontrar colisiones pero según avancen los métodos de criptoanálisis y la potencia de los ordenadores se irán recortando los tiempos y estaremos en las mismas.
 
 # Cifrado, Descifrado y Tipos de HASH C# .Net Core
-En: https://github.com/LeonardoFranciaR/docker-glpi/wiki
+En: https://github.com/LeonardoFranciaR/Encrypt-vs-Hash-NetCore-API/wiki/Encrypt-vs-Hash-.NetCore-API
